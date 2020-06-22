@@ -18,7 +18,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: pmarsceill/rss-to-readme@v1
+    - uses: pmarsceill/rss-to-readme@master
       with:
         feed-url: https://thismodernweb.com/rss.xml
         readme-section: feed
