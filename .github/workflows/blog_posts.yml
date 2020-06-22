@@ -18,9 +18,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
-    # Runs a set of commands using the runners shell
-    - name: Curl RSS feed
-      run: sudo apt install curl && curl --silent  "https://www.thismodernweb.com/rss.xml" | grep -m 10 -E "<content:encoded>" | sed -e 's/<content:encoded>//' -e 's/<\/content:encoded>//' -e 's/<!\[CDATA\[//' -e 's/\]\]>//'
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://thismodernweb.com/microblog.xml
+        readme-section: feed
