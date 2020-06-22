@@ -20,5 +20,5 @@ jobs:
     steps:
     - uses: JasonEtco/rss-to-readme@v1
       with:
-        feed-url: https://thismodernweb.com/microblog.xml
+        feed-url: https://thismodernweb.com/rss.xml
         readme-section: feed
