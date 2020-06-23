@@ -21,5 +21,5 @@ jobs:
     - uses: JasonEtco/rss-to-readme@v1
       with:
         feed-url: https://thismodernweb.com/rss.xml
-        template: "> {{ content:encoded }}\n\n[Read more!]({{ link }})"
+        template: "> {{{ content:encoded }}}\n\n[Read more!]({{ link }})"
         readme-section: feed
