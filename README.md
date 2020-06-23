@@ -5,25 +5,15 @@ In my time at GitHub, I have worked on almost every part of the product. I have 
 ## Updates from my blog
 
 <!--START_SECTION:feed-->
-> <p>A Confession by Jeff Pope - <a href="https://thismodernweb.com/inbox/#a confession-undefined-undefined-">
+<p>A Confession by Jeff Pope - <a href="https://thismodernweb.com/inbox/#a confession-undefined-undefined-">
                           Watched on 5/22/2020 at 13:58:46</a></p>
-
-[Read more!](https:&#x2F;&#x2F;thismodernweb.com&#x2F;inbox&#x2F;#a confession-undefined-undefined-)
-> <p>Just Mercy by Destin Daniel Cretton - <a href="https://thismodernweb.com/inbox/#just mercy-undefined-undefined-">
+<p>Just Mercy by Destin Daniel Cretton - <a href="https://thismodernweb.com/inbox/#just mercy-undefined-undefined-">
                           Watched on 5/15/2020 at 17:19:23</a></p>
-
-[Read more!](https:&#x2F;&#x2F;thismodernweb.com&#x2F;inbox&#x2F;#just mercy-undefined-undefined-)
-> <p>The Painter and the Thief by Benjamin Ree - <a href="https://thismodernweb.com/inbox/#the painter and the thief-undefined-undefined-">
+<p>The Painter and the Thief by Benjamin Ree - <a href="https://thismodernweb.com/inbox/#the painter and the thief-undefined-undefined-">
                           Watched on 4/23/2020 at 17:16:38</a></p>
-
-[Read more!](https:&#x2F;&#x2F;thismodernweb.com&#x2F;inbox&#x2F;#the painter and the thief-undefined-undefined-)
-> <p>Fetch the Bolt Cutters by Fiona Apple - <a href="https://thismodernweb.com/inbox/#fetch the bolt cutters-undefined-undefined-">
+<p>Fetch the Bolt Cutters by Fiona Apple - <a href="https://thismodernweb.com/inbox/#fetch the bolt cutters-undefined-undefined-">
                           Listened on 4/23/2020 at 14:28:29</a></p>
-
-[Read more!](https:&#x2F;&#x2F;thismodernweb.com&#x2F;inbox&#x2F;#fetch the bolt cutters-undefined-undefined-)
-> <p class="css-56tzch"><a href="http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs?ref=thismodernweb.com" class="css-t8fagw">If I could bring one thing back to the internet it would be blogs</a></p><blockquote class="css-1bfyh5s"><p class="css-56tzch">Maybe it was chronicles of their life as they got a job teaching in Japan and how it was leaving American for the first time and all the new things there and skateboarding and meeting people and trying to meet girls, or a photographer working for a while in Minorca or some island off Spain when music hit a rock scene period and all the young people were dressing up in leather and tight jeans and going out dancing to dance rock and writing about his thoughts on where he fit into the scene as he was kind of older but not old, or a compilation of weird and unexplained science and gnostic wisdom, or the things some guy was making out of wood or electronics in his garage, or some Japanese girl who posted pictures of herself looking extremely pink and pneumatic and writing little things with them.</p></blockquote>
-
-[Read more!](https:&#x2F;&#x2F;thismodernweb.com&#x2F;2020&#x2F;05&#x2F;18&#x2F;2281&#x2F;)
+<p class="css-56tzch"><a href="http://tttthis.com/blog/if-i-could-bring-one-thing-back-to-the-internet-it-would-be-blogs?ref=thismodernweb.com" class="css-t8fagw">If I could bring one thing back to the internet it would be blogs</a></p><blockquote class="css-1bfyh5s"><p class="css-56tzch">Maybe it was chronicles of their life as they got a job teaching in Japan and how it was leaving American for the first time and all the new things there and skateboarding and meeting people and trying to meet girls, or a photographer working for a while in Minorca or some island off Spain when music hit a rock scene period and all the young people were dressing up in leather and tight jeans and going out dancing to dance rock and writing about his thoughts on where he fit into the scene as he was kind of older but not old, or a compilation of weird and unexplained science and gnostic wisdom, or the things some guy was making out of wood or electronics in his garage, or some Japanese girl who posted pictures of herself looking extremely pink and pneumatic and writing little things with them.</p></blockquote>
 <!--END_SECTION:feed-->
 
 ## Find me here
