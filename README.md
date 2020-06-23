@@ -5,7 +5,21 @@ In my time at GitHub, I have worked on almost every part of the product. I have 
 ## Updates from my blog
 
 <!--START_SECTION:feed-->
-...
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
+> 
+
+[Read more!]()
 <!--END_SECTION:feed-->
 
 ## Find me here
