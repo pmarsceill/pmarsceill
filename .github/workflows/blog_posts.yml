@@ -22,4 +22,4 @@ jobs:
       with:
         feed-url: https://thismodernweb.com/rss.xml
         template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
-        section: feed
+        readme-section: feed
