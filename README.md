@@ -2,7 +2,7 @@
 
 In my time at GitHub, I have worked on almost every part of the product. I have managed teams or led design efforts on many core features like pull requests, code review, security, ecosystem / api, marketing / top-of-funnel, and new user experience.
 
-<kbd><strong>[⁉️ Ask me anything](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd> <kbd><strong>[🗣 Give me feedback GitHub](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=feedback&template=feedback.md&title=%5BFEEDBACK%5D)</strong></kbd>
+<kbd><strong>[⁉️ Ask me anything](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd> <kbd><strong>[🗣 Give me feedback on GitHub (Actions, Packages, or Pages)](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=feedback&template=feedback.md&title=%5BFEEDBACK%5D)</strong></kbd>
 
 ## Updates from my blog
 
