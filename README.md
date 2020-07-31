@@ -7,6 +7,7 @@ In my time at GitHub, I have worked on almost every part of the product. I have 
 ## Updates from my blog
 
 <!--START_SECTION:feed-->
+<p class="css-56tzch">Nice surprise for a Thursday evening… <a href="https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9?si=LTSHiO4iRUiy2c1-lc-UIw" class="css-t8fagw">Cowboy Bebop Soundtrack now on Spotify</a>.</p><p class="css-56tzch">via <a href="https://kotaku.com/the-cowboy-bebop-soundtracks-just-hit-spotify-so-excuse-1844563638?utm_campaign=Kotaku&amp;utm_content=1596146488&amp;utm_medium=SocialMarketing&amp;utm_source=twitter" class="css-t8fagw">Kotaku</a></p>
 <p class="css-56tzch">I love me some internet nostalgia and <a href="https://jdan.github.io/98.css/" class="css-t8fagw">98.css</a> does not disappoint.</p><blockquote class="css-1bfyh5s"><p class="css-56tzch">98.css is a CSS library for building interfaces that look like Windows 98.</p></blockquote><p class="css-56tzch">A pretty damn faithful recreation of the UI that sent me online curiously building my first web pages, Winamp skins, Visual Basic programs, and pirated copies of PhotoShop.</p>
 <p>A Confession by Jeff Pope - <a href="https://thismodernweb.com/inbox/#a confession-undefined-undefined-">
                           Watched on 5/22/2020 at 13:58:46</a></p>
@@ -14,8 +15,6 @@ In my time at GitHub, I have worked on almost every part of the product. I have 
                           Watched on 5/15/2020 at 17:19:23</a></p>
 <p>The Painter and the Thief by Benjamin Ree - <a href="https://thismodernweb.com/inbox/#the painter and the thief-undefined-undefined-">
                           Watched on 4/23/2020 at 17:16:38</a></p>
-<p>Fetch the Bolt Cutters by Fiona Apple - <a href="https://thismodernweb.com/inbox/#fetch the bolt cutters-undefined-undefined-">
-                          Listened on 4/23/2020 at 14:28:29</a></p>
 <!--END_SECTION:feed-->
 
 ## Find me here
