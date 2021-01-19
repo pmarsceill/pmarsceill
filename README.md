@@ -2,17 +2,7 @@
 
 In my time at GitHub, I have worked on almost every part of the product. I have managed teams or led design efforts on many core features like pull requests, code review, security, ecosystem / api, marketing / top-of-funnel, and new user experience.
 
-<kbd><strong>[⁉️ Ask me anything](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd> <kbd><strong>[🗣 Give me feedback on GitHub (Actions, Packages, or Pages)](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=feedback&template=feedback.md&title=%5BFEEDBACK%5D)</strong></kbd>
-
-## Updates from my blog
-
-<!--START_SECTION:feed-->
-<blockquote class="css-1bfyh5s"><p class="css-56tzch">Man you gotta love Benioff (I mean, you don’t but he’s going to try), he clearly worked for Larry Ellison, loved Larry Ellison, and then said, I will be the absolute opposite of Larry Ellison and yet still build the most phallic building in history.</p></blockquote><p class="css-56tzch"><a href="https://ftrain.medium.com/lets-skim-the-slack-salesforce-press-release-22e941ddc1e0" class="css-t8fagw">Let’s Skim! The Slack/Salesforce Press Release </a></p>
-<p class="css-56tzch">I think I might be ready to start writing again…</p>
-<p class="css-56tzch">One of my <a href="https://poolside.fm" class="css-t8fagw">favorite websites</a> now has an iOS app… Check out what the poolside.fm folks have been building over at <a href="https://cellular.poolside.fm" class="css-t8fagw">https://cellular.poolside.fm</a></p><blockquote class="css-1bfyh5s"><p class="css-56tzch">The closest thing you can get to drinking Peach Bellinis at your desk. ★★★★★</p></blockquote>
-<p class="css-56tzch">Yesterday marked my five year anniversary of working at GitHub 🎉</p>
-<p class="css-56tzch">It feels obvious now, but just starting to realize that my own creative output correlated to my personal happiness and probably my mental health, also.</p>
-<!--END_SECTION:feed-->
+<kbd><strong>[⁉️ Ask me anything](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd> <kbd><strong>[🗣 Give me feedback](https://github.com/pmarsceill/pmarsceill/issues/new?assignees=pmarsceill&labels=feedback&template=feedback.md&title=%5BFEEDBACK%5D)</strong></kbd>
 
 ## Find me here
 
